@@ -49,22 +49,4 @@ The project explores multiple machine learning algorithms, including:
 
 The final model selection is based on the performance obtained during experimentation.
 
-## System Architecture
-
-![System Architecture](images/system_architecture.png)
-
-## Physiological Signal Analysis
-
-![Physiological Signals](images/physiological_signals.png)
-
-## Firebase Integration
-
-![Firebase Database](images/firebase_database.png)
-
-## Stress Prediction
-
-![Stress Prediction](images/stress_prediction.png)
-
-## Project Structure
-
 ```text
